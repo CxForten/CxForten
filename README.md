@@ -1,14 +1,12 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Tomás Loor</h1>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Christofer Chavarria</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tomas-loor-vera)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://thomasklz.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/thomaslvera)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/thomasloor)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/thomaslvera)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/chrisforten)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/therealchrisforten/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-> <span style="text-align: justify;">Tengo más de 6 años de experiencia en el mundo del desarrollo de software, he sido capaz de adaptarme en diferentes puestos de trabajos relacionados al desarrollo, me gustan los desafíos, nuevos retos, el trabajo colaborativo, trato de ser autodidacta porque siempre hay algo nuevo que aprender. Soy apasionado de las nuevas tecnologías y me gusta programar.</span>
+> <span style="text-align: justify;">Soy estudiante de la unviersidad ESPAM "Escuela Politecnica Superior Agropecuaria", no mucha experiencia pero por algo se empieza, el diseño de formularios y diseño en el desarrollo se me da muy bien.</span>
 <h2 align="left" id="macropower-tech">Languages and Tools</h2>
 > Tools, languages, and other things that I like to work with.
 <table>
